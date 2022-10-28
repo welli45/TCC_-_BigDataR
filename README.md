@@ -1,2 +1,2 @@
-# TCC_-_BigDataR
+# TCC BigDataR
 Este repositório tem como objetivo registar o processo de coleta e análise de dados para elaboração do TCC do curso na BigDataR  
